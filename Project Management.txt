@@ -1,0 +1,18 @@
+1. Communication, 
+2. Scope
+3. Integration, Time, Scope
+4. Cost, Procurement
+5. HR, Risk
+6. HR, Communication, Quality
+7. HR, Communication, Integration
+8. Time
+9. Quality, Procurement
+10. Cost, Procurement
+11. Risk
+12. Integration, Risk
+13. HR
+14. HR, Scope
+15. Quality, Time, Risk
+16. Scope, HR
+17. Risk, Scope
+18. Time, Procurement, Quality, Cost
