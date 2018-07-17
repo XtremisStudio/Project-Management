@@ -1,0 +1,34 @@
+ANG
+- 1.01 -> 1.1 instead (minor stuff lah)
+- Quality management need to match with (some of) the (18) issues (Balram's part need to add)
+- Explain how the 'tools & techniques' are applied to solve the issues mentioned up there
+- case study 1 paragraph only for project charter
+  (include the project failure problems at 1st 2 months)
+- project methdology: project management process & knowledge areas - citations needed
+- need to change estimation budget also (but estimate OK)
+
+BALRAM
+- Finish the godamn table of issues already
+-- issues can overlap, so:
+--- just mention 3 issues each for each 9 knowledge areas
+---- total 27 issues+solutions for the table
+- 1 table for each knowledge area (9)
+- table of issues must match the knowledgeAreaMapping
+
+IZZAT
+- match the WBS with your gantt chart
+- Planning spend too less time (need more than 16 days)
+- match project charter 2.8 (major milestones) with gantt chart also
+- WBS can choose display (table OR chart diagram)
+- Gantt Chart topmost part ADD the Project Title (ISCMP)
+- Closing part of gantt chart ADD the stakeholders sign & approval process
+
+ZHIYIN
+- task + resource cost breakdown CONFIRMED
+- make sure task cost breakdown match the gantt chart (not the WBS coz' WBS one too less)
+
+Individual Part - TO ALL
+- Elaborate all processes, but briefly 
+  (no need to complex, just write what's input,output & 3-4 tools & techniques applicable)
+-- but for solving indicated issues, explain how it's implemented
+- she said 1 page enough
