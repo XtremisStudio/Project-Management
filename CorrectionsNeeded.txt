@@ -2,9 +2,6 @@ ANG
 - 1.01 -> 1.1 instead (minor stuff lah)
 - Quality management need to match with (some of) the (18) issues (Balram's part need to add)
 - Explain how the 'tools & techniques' are applied to solve the issues mentioned up there
-- case study 1 paragraph only for project charter
-  (include the project failure problems at 1st 2 months)
-- project methdology: project management process & knowledge areas - citations needed
 - need to change estimation budget also (but estimate OK)
 
 BALRAM
