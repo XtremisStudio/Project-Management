@@ -16,12 +16,12 @@ BALRAM
 - table of issues must match the knowledgeAreaMapping
 
 IZZAT
-- match the WBS with your gantt chart
-- Planning spend too less time (need more than 16 days)
-- match project charter 2.8 (major milestones) with gantt chart also
-- WBS can choose display (table OR chart diagram)
-- Gantt Chart topmost part ADD the Project Title (ISCMP)
-- Closing part of gantt chart ADD the stakeholders sign & approval process
+- match the WBS with your gantt chart /
+- Planning spend too less time (need more than 16 days) /
+- match project charter 2.8 (major milestones) with gantt chart also /
+- WBS can choose display (table OR chart diagram) /
+- Gantt Chart topmost part ADD the Project Title (ISCMP) /
+- Closing part of gantt chart ADD the stakeholders sign & approval process /
 
 ZHIYIN
 - task + resource cost breakdown CONFIRMED
